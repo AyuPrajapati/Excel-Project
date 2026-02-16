@@ -10,5 +10,4 @@
   - Pivot Tables
   - Charts
   - Sales Analysis
-- Purpose:
-  Academic / Portfolio Project
+  
