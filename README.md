@@ -1,7 +1,7 @@
 # Excel Project
 
 ## 📊 Project Preview
-![Excel Dashboard](dashboard.png)
+![Excel Dashboard](dashboard.png.png)
 
 ## 📁 Project Details
 - Tool: Microsoft Excel
